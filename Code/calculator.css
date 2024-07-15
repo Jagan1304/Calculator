@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+.num{
+    border: none;
+    font-size: 20px;
+    margin-right: 5px;
+    background-color: grey;
+    height: 60px;
+    width: 60px;
+    padding: 5px;
+    border-radius: 30px;
+}
+
+.operator{
+    border: none;
+    font-size: 20px;
+    margin-right: 5px;
+    background-color: orange;
+    height: 60px;
+    width: 60px;
+    padding: 5px;
+    border-radius: 30px;
+}
+
+.res{
+    color: white;
+    font-size: 30px;
+}
